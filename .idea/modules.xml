@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/j-algorithm/j-algorithm.iml" filepath="$PROJECT_DIR$/j-algorithm/j-algorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/j-sjms/j-sjms.iml" filepath="$PROJECT_DIR$/j-sjms/j-sjms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/j-tools/j-tools.iml" filepath="$PROJECT_DIR$/j-tools/j-tools.iml" />
+      <module fileurl="file://$PROJECT_DIR$/luoq-my-code.iml" filepath="$PROJECT_DIR$/luoq-my-code.iml" />
+    </modules>
+  </component>
+</project>
